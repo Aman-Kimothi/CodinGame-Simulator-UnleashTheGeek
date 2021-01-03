@@ -24,8 +24,7 @@ https://www.codingame.com/contests/unleash-the-geek-amadeus/leaderboard/global
 
 ### Below is a screenshot of the arena which we simulate in repository.
 
-![Round 1](https://drive.google.com/file/d/1rLfDMbAJmTD-tgdjri1xZfTUdejBnaxI/view?usp=sharing)
-
+![CodinGame Arena](https://drive.google.com/uc?export=view&id=1rLfDMbAJmTD-tgdjri1xZfTUdejBnaxI)
 
 <br>
 <br>
@@ -53,7 +52,7 @@ B1 - Robot with ID 1<br />
 
 ### Round 1
 
-![Round 1](https://drive.google.com/file/d/1jDmTc6fIybPHPWK28lHatGSVDFwUgcwP/view?usp=sharing)
+![Round 1](https://drive.google.com/uc?export=view&id=1jDmTc6fIybPHPWK28lHatGSVDFwUgcwP)
 
 <br>
 
@@ -71,7 +70,7 @@ B1 - Robot with ID 1<br />
 
 ### Round 10
 
-![Round 10](https://drive.google.com/file/d/1_uKZgs-lGzRhAbmOL7F6tUrrQ50nWFL9/view?usp=sharing)
+![Round 10](https://drive.google.com/uc?export=view&id=1_uKZgs-lGzRhAbmOL7F6tUrrQ50nWFL9)
 
 <br>
 
@@ -90,7 +89,7 @@ B1 - Robot with ID 1<br />
 
 ### Round 200
 
-![Round 200](https://drive.google.com/file/d/1l0v2ehlNctEY3m1HCOKzffos3QVgPjzn/view?usp=sharing)
+![Round 200](https://drive.google.com/uc?export=view&id=1l0v2ehlNctEY3m1HCOKzffos3QVgPjzn)
 
 <br>
 
