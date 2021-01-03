@@ -5,7 +5,7 @@ public class GameEngine {
 	public static void main(String args[]) {
 		int oldPlayer = 0;
 		int newPlayer = 0;
-		int totalMatches = 1;
+		int totalMatches = 500;
 		for (int j = 1; j <= totalMatches; ++j) {
 			int winner = Simulator.runSimulator();
 			if (winner == 0) {
