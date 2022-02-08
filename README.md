@@ -9,8 +9,8 @@ We could also trap the robots of the opponent team with the help of **Bomb** dep
 There are a lot of more descriptive details which were provided to us in the **Codingame platform**.<br />
 
 Our team had planned that we'll proceed with creation of a simulator in case it's possible for the particular problem statement.<br />
-Fortunately, simulation was possible for the problem statement. I worked on creating the simulator while my other team members worked on the Player code.<br />
-I've created this repository to share the simulator code.<br />
+Fortunately, simulation was possible for the problem statement. I worked on creating the simulator while my other 2 team members worked on the Player code.<br />
+I've created this repository to share the **simulator (code inside 'simulator' package)** which was created in about **6-7 hours**.<br />
 
 <br>
 
